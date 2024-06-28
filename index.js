@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["ready to server you m'lady","mass with ran ~"];
+const statusMessages = ["ready to serve you m'lady","mass with ran ~"];
 
 
 let currentIndex = 0;
